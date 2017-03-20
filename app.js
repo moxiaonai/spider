@@ -5,7 +5,7 @@ const  fs = require("fs")
 const  config = {
     dbhost:'localhost',
     dbuser:'root',
-    dbpwd:'wwj131410',
+    dbpwd:'123456',
     dbbase:'spider',
     sPath:'http://www.zhuoguji8.org/',
     sNum:250
